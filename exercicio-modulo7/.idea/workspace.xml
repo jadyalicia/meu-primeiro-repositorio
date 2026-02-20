@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bed4af3-951a-4b1c-8185-a0dbaa65ad62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ExercicioModulo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manipulando-variaveis/src/conversoesentretipos/ConversoesEntreTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../manipulando-variaveis/src/conversoesentretipos/ConversoesEntreTipos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manipulando-variaveis/src/funcoesaritmeticas/FuncoesAritmeticas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../manipulando-variaveis/src/funcoesaritmeticas/FuncoesAritmeticas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manipulando-variaveis/src/manipulandostring/ManipulandoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../manipulando-variaveis/src/manipulandostring/ManipulandoString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manipulando-variaveis/src/tiposnaoprimitivos/TiposNaoPrimitivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../manipulando-variaveis/src/tiposnaoprimitivos/TiposNaoPrimitivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../operadores-relacionais-logicos/src/estruturascondicionais/CondicaoTernaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../operadores-relacionais-logicos/src/estruturascondicionais/CondicaoTernaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../operadores-relacionais-logicos/src/estruturascondicionais/EstruturaCondicionalSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../operadores-relacionais-logicos/src/estruturascondicionais/EstruturaCondicionalSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../operadores-relacionais-logicos/src/estruturascondicionais/EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/../operadores-relacionais-logicos/src/estruturascondicionais/EstruturasCondicionais.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../operadores-relacionais-logicos/src/logicos/OperadoresLogicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../operadores-relacionais-logicos/src/relacionais/OperadoresRelacionais.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="39uazjnD7Y8rwsNzwWfQC9xHt05" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ExercicioModulo7.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ExercicioModulo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioModulo7" />
+      <module name="exercicio-modulo7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExercicioModulo7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bed4af3-951a-4b1c-8185-a0dbaa65ad62" name="Changes" comment="" />
+      <created>1771548674035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771548674035</updated>
+    </task>
+    <servers />
+  </component>
+</project>
